@@ -1,0 +1,12 @@
+# Godot generated cache and editor state
+.godot/
+
+# Exported builds and export settings (may contain signing credentials)
+/export.cfg
+/export_presets.cfg
+/builds/
+/exports/
+
+# Operating system files
+.DS_Store
+Thumbs.db
